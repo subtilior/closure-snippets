@@ -5,6 +5,6 @@
  * @extends {${2:goog.Disposable}}
  */
 ${1:`(or (get-current-provide-string) "namespace.Class")`} = function() {
-  $2.call(this);
+  goog.base(this);
 };
 goog.inherits($1, $2);
