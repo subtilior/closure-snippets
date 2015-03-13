@@ -1,0 +1,36 @@
+## Overview ##
+
+Closure Snippets is an unofficial collection of snippets for Google's [Closure Library](http://code.google.com/p/closure-library/).
+
+Currently, snippets are available for **Emacs** (via [YASnippet](http://code.google.com/p/yasnippet/)) and **Vim** (via [XPTemplate](http://code.google.com/p/xptemplate/)).
+
+## Snippets ##
+
+The following snippets are included.
+
+**closure** [bind](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/bind) [class](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/class) [def](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/def) [export.property](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/export.property) [export.symbol](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/export.symbol) [is.array](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.array) [is.arrayLike](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.arrayLike) [is.boolean](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.boolean) [is.dateLike](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.dateLike) [is.def](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.def) [is.defAndNotNull](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.defAndNotNull) [is.function](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.function) [is.null](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.null) [is.number](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.number) [is.object](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.object) [is.string](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/is.string) [msg](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/msg) [now](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/now) [partial](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/partial) [proto](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/proto) [protof](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/protof) [prov](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/prov) [req](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/req) [static](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/static) [staticf](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/staticf) [subclass](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/subclass) [super](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/super) [uid](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/uid)
+
+**closure.dom** [bling](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/bling) [blingbling](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/blingbling) [dom](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/dom) [tagname](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/tagname) [up](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/up)
+
+**closure.dom.classes** [cls.add](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/cls.add) [cls.enable](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/cls.enable) [cls.get](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/cls.get) [cls.has](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/cls.has) [cls.remove](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/cls.remove) [cls.set](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/cls.set) [cls.toggle](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/cls.toggle)
+
+**closure.math** [box](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/box) [coord](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/coord) [rect](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/rect) [size](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/size)
+
+**closure.asserts** [assert](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/assert)
+
+**closure.array** [arr.clear](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.clear) [arr.clone](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.clone) [arr.contains](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.contains) [arr.equals](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.equals) [arr.every](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.every) [arr.filter](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.filter) [arr.find](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.find) [arr.forEach](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.forEach) [arr.indexOf](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.indexOf) [arr.map](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.map) [arr.peek](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.peek) [arr.reduce](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.reduce) [arr.repeat](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.repeat) [arr.some](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.some) [arr.sort](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.sort) [arr.to](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/arr.to)
+
+**closure.style** [hide](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/hide) [show](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/show)
+
+**closure.events** [click](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/click) [listen](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/listen)
+
+**closure.timer** [once](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/once)
+
+**closure.forms** [disable](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/disable) [enable](http://code.google.com/p/closure-snippets/source/browse/emacs/js2-mode/enable)
+
+## Demo ##
+
+A brief screencast is available at:
+http://derekslager.com/blog/posts/2010/06/closure-snippets.ashx
+
+[![](http://derekslager.com/blog/assets/closure-snippets/closure-snippets-screencast-preview.jpg)](http://derekslager.com/blog/posts/2010/06/closure-snippets.ashx)
